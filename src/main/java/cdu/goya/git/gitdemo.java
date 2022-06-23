@@ -7,5 +7,6 @@ public class gitdemo {
         System.out.println("hell33333333333");
         System.out.println("master test");
         System.out.println("hot-fix ");
+        System.out.println("ssh-git");
     }
 }
